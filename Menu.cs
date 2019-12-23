@@ -32,6 +32,7 @@ namespace Fall_Project_2._0
 
         private void button2_Click(object sender, EventArgs e)
         {
+            //jhjkhk
             this.Hide();
             Hystory f2 = new Hystory();
             f2.Show();
